@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>게시글 목록</title>
+    <title>Test</title>
 	<link rel="stylesheet" type="text/css" href="<c:url value='/css/header.css' />">
 	<link rel="stylesheet" type="text/css" href="<c:url value='/css/aside.css' />">
 	<link rel="stylesheet" type="text/css" href="<c:url value='/css/main.css' />">

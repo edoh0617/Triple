@@ -73,7 +73,7 @@
 	
 	<!-- 헤더 -->
 	<header class="site-header">
-	    <h1 class="site-title">Practice05</h1>
+	    <h1 class="site-title">Practice06</h1>
 
 	    <nav class="site-nav">
 	        <ul class="nav-list">
